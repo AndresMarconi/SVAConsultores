@@ -1,0 +1,270 @@
+.imgFondoInst{
+	display: flex;
+	justify-content: center;
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/IntitucionalFrase.jpeg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		box-shadow: 0 4px 8px 0 black;
+		min-height: 200px;
+	align-self: normal;
+}
+
+.logoFondo{
+	background: 
+		linear-gradient(
+			rgba(255, 255, 255, 0),
+			rgba(255, 255, 255, 0)
+		),
+		url('../logos/logo-finalTN.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 70% 50%;
+	align-self: normal;
+}
+
+.fondoAseContable{
+	width:50%;
+	height: 55%;
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0),
+			rgba(0, 0, 0, 0)
+		),
+		url('../images/AsesoramientoContablesticks.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	align-self: normal;
+}
+
+.fondoAseImpositivo{
+	width:60%;
+	height: 97vh;
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0),
+			rgba(0, 0, 0, 0)
+		),
+		url('../images/AsesoramientoImpositivosticks.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	align-self: normal;
+}
+
+.fondoAuditoria{
+	width :50%;
+	height: 70%;
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0),
+			rgba(0, 0, 0, 0)
+		),
+		url('../images/AuditoriaTicks.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	align-self: normal;
+}
+
+.pregsmanag{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/LeanManagementPreguntas.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	color: white;
+}
+
+.pregsPc{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/LeanP&Cpreguntas.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	color: white;
+}
+
+.pregsoffice{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/LeanOfficepreguntas.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	color: white;
+}
+
+.fondoEnfoque{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/enfoqueEmpawerfinal.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 0 4px 8px 0 black;
+	color: white;
+	align-self: normal;
+}
+
+.fondoConcep{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.05),
+			rgba(0, 0, 0, 0.05)
+		),
+		url('../images/conceptosMedio.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	box-shadow: 0 4px 8px 0 black;
+	min-height: 400px;
+	align-self: normal;
+}
+
+.fondoMejo{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.05),
+			rgba(0, 0, 0, 0.05)
+		),
+		url('../images/mejoraMedi.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	box-shadow: 0 4px 8px 0 black;
+	min-height: 400px;
+	align-self: normal;
+}
+
+.fondoElim{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		);
+	box-shadow: 0 4px 8px 0 black;
+	margin-bottom: 3%;
+	max-width:100%;
+	align-self: normal;
+}
+
+.fondoEmpo{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.05),
+			rgba(0, 0, 0, 0.05)
+		),
+		url('../images/empawerMedio.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	box-shadow: 0 4px 8px 0 black;
+	min-height: 400px;
+	margin-bottom: 3%;
+	align-self: normal;
+}
+
+.fondoContactos{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../images/contactoEncabezado.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	box-shadow: 0 4px 8px 0 black;
+	min-height: 60%;
+	margin-top: 1%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-self: normal;
+}
+
+.fondoNoticiasPage{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		);
+	box-shadow: 0 4px 8px 0 black;
+	min-height: 40%;
+	margin-top: 1%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-self: normal;
+}
+
+.fondonoticias1{
+	background-image: url('../images/noticias/AnalisisPymes.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fondonoticias2{
+	background-image: url('../images/noticias/KPI.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fondonoticias3{
+	background-image: url('../images/noticias/consultoriafrase.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fondonoticias4{
+	background-image: url('../images/noticias/NIIF9.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fondonoticias5{
+	background-image: url('../images/noticias/LeyResponsabilidad.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+@media screen and (max-width: 600px) {
+	.fondos{
+		width:100%;
+		height:30%;
+	}
+}
